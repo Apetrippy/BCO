@@ -1,0 +1,20 @@
+{
+  "CONTRACT_ADDRESS": "0x37Bea773D6b03BB03Fe967EaEbe2a0Bf42D3fA1C",
+  "SCAN_LINK": "https://etherscan.io/address/0x37bea773d6b03bb03fe967eaebe2a0bf42d3fa1c",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "eth",
+    "ID": 1
+  },
+  "NFT_NAME": "Bohemian Club Owls",
+  "SYMBOL": "BCO",
+  "MAX_SUPPLY": 10000,
+  "DISPLAY_COST": 1,
+  "GAS_LIMIT": 145000,
+  "MAX_PER_TX": 50,
+  "MARKETPLACE": "Looksrare",
+  "MARKETPLACE_LINK": "https://looksrare.org/collections/0x37Bea773D6b03BB03Fe967EaEbe2a0Bf42D3fA1C",
+  "Twitter": "https://twitter.com/otherside2626",
+  "Etherscan": "https://etherscan.io/address/0x37Bea773D6b03BB03Fe967EaEbe2a0Bf42D3fA1C",
+  "SHOW_BACKGROUND": false
+}
