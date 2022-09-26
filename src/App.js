@@ -734,7 +734,7 @@ function App() {
               <s.Icons src="/config/images/twitter.svg" alt="twitter" />
             </a>
             <a href={CONFIG.MARKETPLACE_LINK} target={"_blank"}>
-              <s.Icons src="/config/images/looksrare.svg" alt="looksrare" />
+              <s.Icons src="/config/images/opensea.svg" alt="looksrare" />
             </a>
             <a href={CONFIG.Etherscan} target={"_blank"}>
               <s.Icons src="/config/images/Etherscan.svg" alt="Etherscan" />
