@@ -661,7 +661,7 @@ function App() {
           </s.TextP>
           <br></br>
             <br></br>
-          <img src="https://mint.Bohemian Club Owls.tk/config/images/26.png" />
+          <img src="/config/images/26.png" />
         </s.SecContainer>
 
         <s.SecContainer id="sneak">
