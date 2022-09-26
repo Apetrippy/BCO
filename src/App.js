@@ -325,7 +325,7 @@ function App() {
       .then((receipt) => {
         console.log(receipt);
         setFeedback(
-          `WOW, the ${CONFIG.NFT_NAME} is yours! go visit Looksrare.org to view it.`
+          `WOW, the ${CONFIG.NFT_NAME} is yours! go visit Opensea.io to view it.`
         );
         toaster.push(txmessage, { placement })
         setbrd("2px solid green");
@@ -405,7 +405,7 @@ function App() {
                 <s.Icons src="/config/images/twitter.svg" alt="twitter" />
               </a>
               <a href={CONFIG.MARKETPLACE_LINK} target={"_blank"}>
-                <s.Icons src="/config/images/looksrare.svg" alt="looksrare" />
+                <s.Icons src="/config/images/opensea.svg" alt="Opensea" />
               </a>
               <a href={CONFIG.Etherscan} target={"_blank"}>
                 <s.Icons src="/config/images/Etherscan.svg" alt="Etherscan" />
@@ -654,10 +654,10 @@ function App() {
             been exposed by the web3 pioneer <a href="https://twitter.com/Pauly0x">Pauly</a>.
             <br></br>
             <br></br>
-				    June 2 2022 <a href="https://twitter.com/otherside2626">Bohemian Club Owls</a> 26 is de-listed from Opensea
+				    June 2 2022 <a href="https://twitter.com/BohemianClubOwls">Bohemian Club Owls</a> 26 is de-listed from Opensea
             <br></br>
             <br></br>
-            <a href="https://twitter.com/DonnGregoor">DonnGregoor</a>
+            <a href="https://twitter.com/DonnGregoor69">DonnGregoor</a>
           </s.TextP>
           <br></br>
             <br></br>
@@ -734,7 +734,7 @@ function App() {
               <s.Icons src="/config/images/twitter.svg" alt="twitter" />
             </a>
             <a href={CONFIG.MARKETPLACE_LINK} target={"_blank"}>
-              <s.Icons src="/config/images/opensea.svg" alt="looksrare" />
+              <s.Icons src="/config/images/opensea.svg" alt="Opensea" />
             </a>
             <a href={CONFIG.Etherscan} target={"_blank"}>
               <s.Icons src="/config/images/Etherscan.svg" alt="Etherscan" />
